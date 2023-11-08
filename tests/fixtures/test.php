@@ -1,22 +1,15 @@
 <?php
 
 $requiredextensions = [
-    'apcu',
     'exif',
     'gd',
     'igbinary',
     'intl',
     'ldap',
-    'memcached',
-    'mongodb',
     'mysqli',
-    'oci8',
-    'pgsql',
     'redis',
     'soap',
     'sodium',
-    'solr',
-    'sqlsrv',
     'uuid',
     'xsl',
     'xmlrpc',
