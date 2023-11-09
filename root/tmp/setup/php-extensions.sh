@@ -6,7 +6,7 @@ echo "Installing apt dependencies"
 
 # Build packages will be added during the build, but will be removed at the end.
 BUILD_PACKAGES="gettext libcurl4-openssl-dev libfreetype6-dev libicu-dev libjpeg62-turbo-dev \
-  libmariadb-dev libpng-dev libpq-dev libxml2-dev libxslt-dev \
+  libmariadb-dev libpng-dev libxml2-dev libxslt-dev \
   uuid-dev"
 
 # Packages for MariaDB and MySQL.

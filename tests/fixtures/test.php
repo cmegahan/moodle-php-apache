@@ -5,7 +5,6 @@ $requiredextensions = [
     'gd',
     'igbinary',
     'intl',
-    'ldap',
     'mysqli',
     'redis',
     'soap',
